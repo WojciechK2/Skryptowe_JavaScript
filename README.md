@@ -11,9 +11,9 @@ Użyte zasoby: Asset pack from Kenney: 1-Bit Platformer Pack (1.1) under a CC0 l
 
 program Tiled: https://www.mapeditor.org/
 
-Sama gra dostępna jest na moim serverze: http://www.origin.wojciech.fun/upload_game/Mar0/
+Sama gra dostępna jest na moim serverze: http://www.wojciech.fun/upload_game/Mar0/
 
-Jak i (nieudane) podejścia z przełączaniem scen (niestety są osobno): http://www.origin.wojciech.fun/upload_game/Mar0_2/ -> scena A http://www.origin.wojciech.fun/upload_game/Mar0_3/ -> scena B
+Jak i (nieudane) podejścia z przełączaniem scen (niestety są osobno): http://www.wojciech.fun/upload_game/Mar0_2/ -> scena A http://www.wojciech.fun/upload_game/Mar0_3/ -> scena B
 
 W tych przypadkach gra się kończy gdy dojdziemy do drzwi na końcu levela. (następuje pauza)
 
